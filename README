@@ -1,0 +1,7 @@
+Install the entire folder into your silverstripe site directory like any other module.
+
+Run yoursite/dev/build?flush=1 to update the database and recognize the new files.
+
+Log into the cms and visit the joomlamembers section.
+
+Load you csv exported joomla member table into the import members form.
